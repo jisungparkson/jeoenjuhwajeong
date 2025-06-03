@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # 1. OpenWeatherMap API 키 설정 (★★★ 중요: 본인의 유효한 API 키로 변경하세요! ★★★)
-API_KEY = "9c08027329504879b2a152706251601"  # 사용자께서 제공해주신 API 키로 업데이트했습니다.
+API_KEY = "cd41b7aae39143e9bca111624250306"  # 사용자께서 제공해주신 API 키로 업데이트했습니다.
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # 2. 날씨 정보 가져오는 함수
