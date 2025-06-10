@@ -16,8 +16,7 @@ st.title("🌟 오늘 운동장에서 놀 수 있을까?")
 st.subheader("미세먼지를 확인해보자! 🔍")
 
 # API 키 입력
-api_key = st.sidebar.text_input("9b0b8052f0c6eaead4c57ff48f0bd491
-", type="password")
+api_key = st.sidebar.text_input("9b0b8052f0c6eaead4c57ff48f0bd491", type="password")
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 📍 위치 설정")
 
